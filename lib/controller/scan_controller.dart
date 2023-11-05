@@ -1,8 +1,5 @@
-import 'dart:html';
-import 'dart:math';
-import 'dart:ui';
+
 import 'package:camera/camera.dart';
-import 'package:flutter/painting.dart';
 import 'package:get/get.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:tflite/tflite.dart';

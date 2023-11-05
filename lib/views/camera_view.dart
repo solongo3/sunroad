@@ -35,7 +35,7 @@ class CameraView extends StatelessWidget {
                             child: Text(controller.label))
                         ],
                       ),
-                  ),
+                    ),
                 )
               ],
             )
